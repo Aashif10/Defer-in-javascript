@@ -1,1 +1,1 @@
-# REACT-CURD
+# defer in javascript
